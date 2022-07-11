@@ -1,0 +1,3 @@
+A IDE escolhida foi o VScode, atualmente rodando apenas com a extensão code runner. A escolha se deu pela facilidade de configuração e popularidade da interface.
+
+Também utilizo o Lunar-Vim (baseado no Neo-Vim) para editar códigos via terminal.
