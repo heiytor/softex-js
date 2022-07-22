@@ -1,1 +1,1 @@
-Favor, baixar os arquivos e executar o .html no navegador de prefer
+Favor, baixar os arquivos e executar o .html no navegador de preferência.
